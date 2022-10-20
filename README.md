@@ -1,1 +1,1 @@
-# DataScience_salary_prediction
+# Salary-Prediction-Project
